@@ -13,7 +13,5 @@ Error logging
 
 Communicate over Ethernet using RESTful interface
 
-Implements a communication parser in C that is bufferles -- uses the memory in the Ethernet recieve buffer rather than the microcontroller SRAMs
-
 ## Goal
-Gain experience in programming in a memory-constrained environment
+Gain experience in programming in a memory-constrained environment by implementing a bufferless communication parser in C that uses the memory in the Ethernet recieve buffer rather than the microcontroller SRAM
